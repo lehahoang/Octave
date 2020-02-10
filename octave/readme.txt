@@ -1,1 +1,5 @@
-This repository contains octave source code for plotting
+This repository contains octave source code for plotting:
+- Box plot
+- Error bar plot
+- Line plot with markers
+- Scatter plot
